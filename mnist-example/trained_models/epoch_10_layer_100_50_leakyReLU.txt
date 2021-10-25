@@ -1,0 +1,10 @@
+Epoch: 0, Training error rate: 0.27218333333333333
+Epoch: 1, Training error rate: 0.09988333333333332
+Epoch: 2, Training error rate: 0.07721666666666671
+Epoch: 3, Training error rate: 0.06428333333333336
+Epoch: 4, Training error rate: 0.05696666666666672
+Epoch: 5, Training error rate: 0.05143333333333333
+Epoch: 6, Training error rate: 0.04623333333333335
+Epoch: 7, Training error rate: 0.042850000000000055
+Epoch: 8, Training error rate: 0.039316666666666666
+Epoch: 9, Training error rate: 0.0373
